@@ -67,3 +67,5 @@ Please note: in the current draft I mention women as an example, but the recomme
 - Mobility
   - Reserve seats in rooms for folks who might need it (wheelchair, crutches, cane, etc.). Choose easily-accessible seats, such as at the end of a row on the aisle.
   - Create wide aisles between chairs to make it easier for people who are mobility-impaired to navigate the room.
+  - Note on the meetup description whether the venue, and the bathrooms, are wheelchair accessible
+  - Be ready to answer questions regarding the accessibility of the venue
