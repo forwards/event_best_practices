@@ -1,2 +1,2 @@
-# event_best_practices
+# Event Best Practices
 Pooled resources on best practices for events (conferences, workshops, RUGS, etc)
